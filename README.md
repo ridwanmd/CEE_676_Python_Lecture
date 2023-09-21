@@ -12,4 +12,4 @@ The material is organized as follows:
 
 Most exercises ask to complement or modify pieces of code. If you can't spot the required modification at first (which should happen in most cases), then play around with the provided code. execute it bit-by-bit and try to understand what the specific parts of the code are doing. That should lead you to the solution.  
 
-Keep in mind that this material doesn't intend to cover all the basics of Python. Rather, this intends to give you a first glance at what coding looks like. However, after going through the exercises, so you might feel more confident to continue learning with other, more comprehensive, material.  
+Keep in mind that this material doesn't intend to cover all the basics of Python. Rather, this intends to give you a first glance at what coding looks like. However, after going through the exercises, you may feel more confident to move forward and improve your coding skills. There is extensive freely available online material that you can use to learn.   
