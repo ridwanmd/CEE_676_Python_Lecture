@@ -6,7 +6,7 @@ The notebooks contained in this repository are designed to guide your first step
 
 The material is organized as follows:
 
-1. [**Notebook 1: Python Basics:**](https://github.com/ArlexMR/CEE_694_Python_Lecture/blob/main/Notebooks/01_PythonBasics_Exercises.ipynb) Cover some basic elements of the Python data types and syntactic rules
+1. [**Notebook 1: Python Basics:**](https://github.com/ArlexMR/CEE_694_Python_Lecture/blob/main/Notebooks/01_PythonBasics_Exercises.ipynb) Cover some basic elements of the Python data types and syntactic rules (some exercises in this notebook are optional)
 2. [**Notebook 2: Basic Libraries:**](https://github.com/ArlexMR/CEE_694_Python_Lecture/blob/main/Notebooks/02_Basic_Libraries_Exercises.ipynb) Cover basic elements of three important libraries for data analysis and visualization: *Numpy*, *Pandas* and *Matplotlib*
 3. [**Notebook 3: Data Retrieval and hydrological applications**:](https://github.com/ArlexMR/CEE_694_Python_Lecture/blob/main/Notebooks/03_HydroDataRetriev%26Manip.ipynb) Introduces the *data retrieval* package to download hydrological data and provides examples of basic hydrological analyses.     
 
