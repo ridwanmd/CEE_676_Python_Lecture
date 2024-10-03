@@ -1,5 +1,5 @@
 # Introduction to Python for Hydrologists
-## CEE 694 - Watershed Erosion, Sedimentation and Water Quality 
+## CEE 676 - Sediment Transport and River Mechanics
 ## University of Louisville
 
 The notebooks contained in this repository are designed to guide your first steps in using Python for hydrologic analyses through a series of practical exercises. Each exercise is designed to teach you specific elements such as   data types, syntactic rules, use of libraries, etc.  
